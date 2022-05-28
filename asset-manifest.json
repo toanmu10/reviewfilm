@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reviewfilm/static/css/main.430e9b72.chunk.css",
+    "main.js": "/reviewfilm/static/js/main.f59c87c4.chunk.js",
+    "main.js.map": "/reviewfilm/static/js/main.f59c87c4.chunk.js.map",
+    "runtime-main.js": "/reviewfilm/static/js/runtime-main.c6658ec7.js",
+    "runtime-main.js.map": "/reviewfilm/static/js/runtime-main.c6658ec7.js.map",
+    "static/css/2.2894c9e2.chunk.css": "/reviewfilm/static/css/2.2894c9e2.chunk.css",
+    "static/js/2.f2121e06.chunk.js": "/reviewfilm/static/js/2.f2121e06.chunk.js",
+    "static/js/2.f2121e06.chunk.js.map": "/reviewfilm/static/js/2.f2121e06.chunk.js.map",
+    "index.html": "/reviewfilm/index.html",
+    "static/css/2.2894c9e2.chunk.css.map": "/reviewfilm/static/css/2.2894c9e2.chunk.css.map",
+    "static/css/main.430e9b72.chunk.css.map": "/reviewfilm/static/css/main.430e9b72.chunk.css.map",
+    "static/js/2.f2121e06.chunk.js.LICENSE.txt": "/reviewfilm/static/js/2.f2121e06.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/reviewfilm/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/reviewfilm/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.67797e94.png": "/reviewfilm/static/media/tmovie.67797e94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6658ec7.js",
+    "static/css/2.2894c9e2.chunk.css",
+    "static/js/2.f2121e06.chunk.js",
+    "static/css/main.430e9b72.chunk.css",
+    "static/js/main.f59c87c4.chunk.js"
+  ]
+}
